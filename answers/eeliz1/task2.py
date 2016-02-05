@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+'''
+Calculates the sum of the integers 0 to 1000 via recursion
+'''
 import sys
 sys.setrecursionlimit(1100)
 
